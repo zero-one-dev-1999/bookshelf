@@ -6,7 +6,7 @@ import { authActions } from 'store/auth/reducer'
 // import { authActions } from 'store/auth/reducer'
 
 const API_URL = import.meta.env.VITE_API_URL
-const api = axios.create({ baseURL: '/api', withCredentials: true })
+const api = axios.create({ baseURL: API_URL, withCredentials: true })
 
 api.interceptors.request.use(config => {
 	if (config.withCredentials) {
