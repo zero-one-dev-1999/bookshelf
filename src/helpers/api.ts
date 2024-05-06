@@ -2,6 +2,7 @@
 import { store } from 'store'
 import axios from 'axios'
 import CryptoJS from 'crypto-js'
+import { authActions } from 'store/auth/reducer'
 // import { authActions } from 'store/auth/reducer'
 
 const API_URL = import.meta.env.VITE_API_URL
@@ -40,7 +41,7 @@ api.interceptors.response.use(
 	},
 	error => {
 		if (error.response?.status === 401) {
-			// store.dispatch(authActions.reset())
+			store.dispatch(authActions.reset())
 		}
 
 		return Promise.reject(error)
