@@ -29,6 +29,8 @@ setLocale({
 	},
 })
 
+console.log(import.meta.env.VITE_API_URL);
+
 const App = () => {
 	return (
 		<ReduxProvider store={store}>
