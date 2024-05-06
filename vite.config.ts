@@ -23,13 +23,13 @@ export default defineConfig(({ mode }) => {
 			host: true,
 			port: 4173,
 			strictPort: true,
-			// proxy: {
-			// 	'/api': {
-			// 		target: env.VITE_API_URL,
-			// 		changeOrigin: true,
-			// 		rewrite: path => path.replace(/^\/api/, ''),
-			// 	},
-			// },
+			proxy: {
+				'/api': {
+					target: env.VITE_API_URL,
+					changeOrigin: true,
+					rewrite: path => path.replace(/^\/api/, ''),
+				},
+			},
 		},
 		build: {
 			rollupOptions: {
