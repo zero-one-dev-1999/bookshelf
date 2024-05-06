@@ -1,0 +1,21 @@
+{
+	"add": "Add",
+	"search": "Search",
+	"delete": "Delete",
+	"new": "New",
+	"reading": "Reading",
+	"finished": "Finished",
+	"year-published": "year published",
+	"page": "page",
+	"author": "Author",
+	"logout": "Logout",
+	"uzbek": "Uzbek",
+	"english": "English",
+	"title": "Title",
+	"login": "Login",
+	"registration": "Registration",
+	"name": "Name",
+	"email": "Email",
+	"key": "Key",
+	"secret": "Secret"
+}

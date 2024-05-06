@@ -1,0 +1,21 @@
+{
+	"add": "Qo'shish",
+	"search": "Qidirish",
+	"delete": "O'chirish",
+	"new": "Yangi",
+	"reading": "O'qilmoqda",
+	"finished": "O'qilgan",
+	"year-published": "yil chop etilgan",
+	"page": "sahifa",
+	"author": "Muallifi",
+	"logout": "Chiqish",
+	"uzbek": "O'zbek",
+	"english": "Ingliz",
+	"title": "Nomi",
+	"login": "Kirish",
+	"registration": "Ro'yhatdan o'tish",
+	"name": "Ism",
+	"email": "Email",
+	"key": "Kalit",
+	"secret": "Sir"
+}

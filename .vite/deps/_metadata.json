@@ -1,0 +1,247 @@
+{
+  "hash": "5e9c3baa",
+  "configHash": "a5354c3d",
+  "lockfileHash": "b79e8ba5",
+  "browserHash": "a08304a9",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "212487d3",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "cb4288ab",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../node_modules/react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "10f0db5e",
+      "needsInterop": true
+    },
+    "@mui/material": {
+      "src": "../../node_modules/@mui/material/index.js",
+      "file": "@mui_material.js",
+      "fileHash": "2aae020e",
+      "needsInterop": false
+    },
+    "@reduxjs/toolkit": {
+      "src": "../../node_modules/@reduxjs/toolkit/dist/redux-toolkit.modern.mjs",
+      "file": "@reduxjs_toolkit.js",
+      "fileHash": "fc0af97b",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "537be817",
+      "needsInterop": true
+    },
+    "react-redux": {
+      "src": "../../node_modules/react-redux/dist/react-redux.mjs",
+      "file": "react-redux.js",
+      "fileHash": "2250bfbd",
+      "needsInterop": false
+    },
+    "react-router": {
+      "src": "../../node_modules/react-router/dist/index.js",
+      "file": "react-router.js",
+      "fileHash": "d045b45e",
+      "needsInterop": false
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "5e4aa979",
+      "needsInterop": false
+    },
+    "redux": {
+      "src": "../../node_modules/redux/dist/redux.mjs",
+      "file": "redux.js",
+      "fileHash": "69532e59",
+      "needsInterop": false
+    },
+    "redux-persist": {
+      "src": "../../node_modules/redux-persist/es/index.js",
+      "file": "redux-persist.js",
+      "fileHash": "7b876f53",
+      "needsInterop": false
+    },
+    "redux-persist-transform-encrypt": {
+      "src": "../../node_modules/redux-persist-transform-encrypt/lib/index.js",
+      "file": "redux-persist-transform-encrypt.js",
+      "fileHash": "033cdf5f",
+      "needsInterop": false
+    },
+    "redux-persist/integration/react": {
+      "src": "../../node_modules/redux-persist/es/integration/react.js",
+      "file": "redux-persist_integration_react.js",
+      "fileHash": "233e0878",
+      "needsInterop": false
+    },
+    "redux-persist/lib/storage": {
+      "src": "../../node_modules/redux-persist/lib/storage/index.js",
+      "file": "redux-persist_lib_storage.js",
+      "fileHash": "a17fed9f",
+      "needsInterop": true
+    },
+    "redux-saga": {
+      "src": "../../node_modules/redux-saga/dist/redux-saga-core-npm-proxy.esm.js",
+      "file": "redux-saga.js",
+      "fileHash": "d10e4d96",
+      "needsInterop": false
+    },
+    "redux-saga/effects": {
+      "src": "../../node_modules/redux-saga/dist/redux-saga-effects-npm-proxy.esm.js",
+      "file": "redux-saga_effects.js",
+      "fileHash": "06fe7e5c",
+      "needsInterop": false
+    },
+    "axios": {
+      "src": "../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "6effc598",
+      "needsInterop": false
+    },
+    "formik": {
+      "src": "../../node_modules/formik/dist/formik.esm.js",
+      "file": "formik.js",
+      "fileHash": "be49e6e3",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Logout": {
+      "src": "../../node_modules/@mui/icons-material/Logout.js",
+      "file": "@mui_icons-material_Logout.js",
+      "fileHash": "2ddcd0db",
+      "needsInterop": true
+    },
+    "@mui/icons-material/Person": {
+      "src": "../../node_modules/@mui/icons-material/Person.js",
+      "file": "@mui_icons-material_Person.js",
+      "fileHash": "891b5b84",
+      "needsInterop": true
+    },
+    "yup": {
+      "src": "../../node_modules/yup/index.esm.js",
+      "file": "yup.js",
+      "fileHash": "3e05867f",
+      "needsInterop": false
+    },
+    "crypto-js": {
+      "src": "../../node_modules/crypto-js/index.js",
+      "file": "crypto-js.js",
+      "fileHash": "7c5a3d79",
+      "needsInterop": true
+    },
+    "@mui/icons-material/Add": {
+      "src": "../../node_modules/@mui/icons-material/Add.js",
+      "file": "@mui_icons-material_Add.js",
+      "fileHash": "83c8006d",
+      "needsInterop": true
+    },
+    "@mui/icons-material/MoreVert": {
+      "src": "../../node_modules/@mui/icons-material/MoreVert.js",
+      "file": "@mui_icons-material_MoreVert.js",
+      "fileHash": "39a9d241",
+      "needsInterop": true
+    },
+    "@mui/icons-material/DeleteOutlined": {
+      "src": "../../node_modules/@mui/icons-material/DeleteOutlined.js",
+      "file": "@mui_icons-material_DeleteOutlined.js",
+      "fileHash": "a287a28f",
+      "needsInterop": true
+    },
+    "@mui/icons-material/BookmarkRemove": {
+      "src": "../../node_modules/@mui/icons-material/BookmarkRemove.js",
+      "file": "@mui_icons-material_BookmarkRemove.js",
+      "fileHash": "93ec3827",
+      "needsInterop": true
+    },
+    "@mui/icons-material/Bookmark": {
+      "src": "../../node_modules/@mui/icons-material/Bookmark.js",
+      "file": "@mui_icons-material_Bookmark.js",
+      "fileHash": "c2d6b75d",
+      "needsInterop": true
+    },
+    "@mui/icons-material/BookmarkAdded": {
+      "src": "../../node_modules/@mui/icons-material/BookmarkAdded.js",
+      "file": "@mui_icons-material_BookmarkAdded.js",
+      "fileHash": "e15a28a4",
+      "needsInterop": true
+    },
+    "@mui/icons-material/Search": {
+      "src": "../../node_modules/@mui/icons-material/Search.js",
+      "file": "@mui_icons-material_Search.js",
+      "fileHash": "e376f6fb",
+      "needsInterop": true
+    },
+    "lodash-es/debounce": {
+      "src": "../../node_modules/lodash-es/debounce.js",
+      "file": "lodash-es_debounce.js",
+      "fileHash": "56f4013f",
+      "needsInterop": false
+    },
+    "i18next": {
+      "src": "../../node_modules/i18next/dist/esm/i18next.js",
+      "file": "i18next.js",
+      "fileHash": "a701cd8c",
+      "needsInterop": false
+    },
+    "react-i18next": {
+      "src": "../../node_modules/react-i18next/dist/es/index.js",
+      "file": "react-i18next.js",
+      "fileHash": "c8fbe323",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-JNF3SKRF": {
+      "file": "chunk-JNF3SKRF.js"
+    },
+    "chunk-VPVO6WGB": {
+      "file": "chunk-VPVO6WGB.js"
+    },
+    "chunk-AGA7SJGG": {
+      "file": "chunk-AGA7SJGG.js"
+    },
+    "chunk-2JZTLBT6": {
+      "file": "chunk-2JZTLBT6.js"
+    },
+    "chunk-65JG2JFT": {
+      "file": "chunk-65JG2JFT.js"
+    },
+    "chunk-MDOJUDK3": {
+      "file": "chunk-MDOJUDK3.js"
+    },
+    "chunk-I6PYRVFI": {
+      "file": "chunk-I6PYRVFI.js"
+    },
+    "chunk-F3GDDWGN": {
+      "file": "chunk-F3GDDWGN.js"
+    },
+    "chunk-F4MXHNQ2": {
+      "file": "chunk-F4MXHNQ2.js"
+    },
+    "chunk-WD6HV24S": {
+      "file": "chunk-WD6HV24S.js"
+    },
+    "chunk-ZKPLN6UX": {
+      "file": "chunk-ZKPLN6UX.js"
+    },
+    "chunk-OZKHX4TQ": {
+      "file": "chunk-OZKHX4TQ.js"
+    },
+    "chunk-LMQSPA3V": {
+      "file": "chunk-LMQSPA3V.js"
+    },
+    "chunk-PWUE5V7V": {
+      "file": "chunk-PWUE5V7V.js"
+    },
+    "chunk-WGAPYIUP": {
+      "file": "chunk-WGAPYIUP.js"
+    }
+  }
+}

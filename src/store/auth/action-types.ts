@@ -1,0 +1,3 @@
+export const AUTH_REGISTER_USER = 'AUTH::REGISTER_USER'
+export const AUTH_LOGOUT = 'AUTH::LOGOUT'
+export const AUTH_LOGIN = 'AUTH::LOGIN'

@@ -1,0 +1,9 @@
+// .eslintignore
+dist/*
+public/*
+**/out/*
+**/node_modules/*
+
+vite.config.js
+vite.config.ts
+
